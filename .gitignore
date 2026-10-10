@@ -3,3 +3,6 @@ node_modules/
 /playwright-report/
 /playwright/.cache/
 .DS_Store
+# Auth state Playwright (berisi cookie login, JANGAN di-commit)
+/playwright/.auth/
+.env
